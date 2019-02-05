@@ -4,12 +4,9 @@ Repositório para banco de dados em geral
 
 ## Descricão dos dados
 
-uti = Utilização da capacidade instalada na indústria
-
-Frequência: Mensal de 1991.01 até 2018.11
-
-Fonte: CNI - Confederação Nacional da Indústria
-
+uti = Utilização da capacidade instalada na indústria  
+Frequência: Mensal de 1991.01 até 2018.11  
+Fonte: CNI - Confederação Nacional da Indústria  
 Unidade: (%)
 
 LINK = http://www.ipeadata.gov.br/
