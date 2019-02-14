@@ -2,4 +2,4 @@
 Repositório para banco de dados em geral
 
 
-## Arquiquivos para o Minicurso dia 16 de fevereiro (2019)
+# Arquivos para o Minicurso dia 16 de fevereiro (2019)
