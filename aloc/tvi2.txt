@@ -1,0 +1,10 @@
+pp	cp	tvi
+fl	sp	548
+fl	go	1125
+fl	pa	327
+cr	sp	334
+cr	go	914
+cr	pa	509
+cg	sp	700
+cg	go	587
+cg	pa	1164
