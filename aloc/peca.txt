@@ -1,6 +1,0 @@
-peca	tpr	tsp
-botao	60	20
-bico	95	20
-grade	125	30
-suporte	115	25
-moldura	85	20
