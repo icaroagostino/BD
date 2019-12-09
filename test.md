@@ -1,12 +1,10 @@
 # Document Instructions for Visiting Researchers at BIBA
 Ícaro Agostino, Satie Takeda and Eike Broda - *09/12/2019*
 
-***
 ## Objective
 
 This manual aims to guide Visiting Researchers to obtaining the necessary documents after arriving in Germany. This document focuses on projects in cooperation with UFSC and BIBA.
 
-***
 After arrival in Bremen five main documents are required:
 
 - City Registration
@@ -19,13 +17,12 @@ The flow for obtaining all the necessary documents is summarized in the followin
 
 ![Flow](https://github.com/icaroagostino/BD/raw/master/newBIBA%20(1).png)\
 
-***
 ## Important documents to have at hand
 
 - **A - Passport:** official international document.
 - **B - Invitation Letter:** letter sent by BIBA, signed by a university Professor.
-- **C - Health Insurance:** Health insurance contract, we suggest using the service of Mawista ([link](https://www.mawista.com/en/)), the process is fast and online.
-- **D - Enrollment of your home university (in english):** if you are a PPGEP/UFSC student you can use this template - 
+- **C - Health Insurance:** Health insurance contract, we suggest using the service of Mawista ([link](https://www.mawista.com/en/)).
+- **D - Home University Enrollment (in english):** if you are a PPGEP/UFSC student you can use this template - 
 [Link](https://drive.google.com/open?id=18sKO0Ni9or1b0Qqov5e1e5-QjbXShtD0)
 - **E - Scholarship Letter (Capes):** document sent by the capes highlighting the value of the scholarship and other benefits.
 - **F - Rent Contract:** some places close to the university and with good price:
@@ -34,7 +31,6 @@ The flow for obtaining all the necessary documents is summarized in the followin
   - Campus VIVA - [Link](https://www.campusviva.de/en/renting/bremen/)
   - Conways Home - [Link](https://conways-home.de/en/)
 
-***
 ## Step by step
 
 The following suggested sequence of steps should be followed in order to obtain the documents and avoid dependency problems.
@@ -68,8 +64,8 @@ After that, you must go to Bremen Service Universität (BSU) to get the **city r
 - **Documents required:**
 
   - Apartment confirmation
-  - Passport\
-\
+  - Passport
+
 - **Place:** Bremen Service Universität (BSU) - 
   [Google Maps Link](https://goo.gl/maps/GnnWBwHyyLBEf8kP9)
   
@@ -85,8 +81,8 @@ It will be important to open a German account, because several services (includi
   - Apartment confirmation
   - Invitation Letter
   - Enrollment (UFSC)
-  - Scholarship Letter (Capes)\
-\
+  - Scholarship Letter (Capes)
+
 - **Place:** Die Sparkasse Bremen - Beratungsfiliale - 
   [Google Maps Link](https://goo.gl/maps/rEqxQTtSRghdga1FA)
   
@@ -101,8 +97,8 @@ To do the enrollment you must go to the rectory and submit the completed form al
   - Invitation Letter
   - Health insurance
   - Enrollment (UFSC)
-  - Scholarship Letter (Capes)\
-\
+  - Scholarship Letter (Capes)
+
 - **Place:** Rektorat Uni Bremen - 
   [Google Maps Link](https://goo.gl/maps/hxe7DtSm7qzy3QfM7)
   
@@ -119,13 +115,12 @@ A residence visa is required for anyone staying in Germany for more than three m
   - Health Insurance
   - Scholarship Letter (Capes)
   - Enrollment Uni Bremen
-  - Other documents: bank account, rent contract, apartment confirmation.\
-\
+  - Other documents: bank account, rent contract, apartment confirmation.
+
 - **Place:** Bremen Service Universität (BSU) - 
   [Google Maps Link](https://goo.gl/maps/GnnWBwHyyLBEf8kP9)
   
 - **Website:** [Welcome center](https://www.uni-bremen.de/en/research-alliance/welcome-center/visa-and-entry/)
 
 ***
-
 Welcome Visiting Researcher!
