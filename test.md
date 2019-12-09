@@ -1,11 +1,9 @@
 # Document Instructions for Visiting Researchers at BIBA
-Ícaro Agostino, Satie Takeda and Eike Broda
-
-09/12/2019
+Ícaro Agostino, Satie Takeda and Eike Broda - *09/12/2019*
 ***
 ## **Objective**
 
-This manual aims to guide Visiting Researchers to obtaining the necessary documents after arriving in Germany. This document focuses on projects carried out in cooperation between UFSC and BIBA.
+This manual aims to guide Visiting Researchers to obtaining the necessary documents after arriving in Germany. This document focuses on projects in cooperation with UFSC and BIBA.
 
 ***
 After arrival in Bremen five main documents are required:
