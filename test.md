@@ -15,7 +15,7 @@ After arrival in Bremen five main documents are required:
 
 The flow for obtaining all the necessary documents is summarized in the following image:
 
-![Flow](https://github.com/icaroagostino/BD/raw/master/newBIBA%20(1).png)\
+![Flow](https://github.com/icaroagostino/BD/raw/master/newBIBA%20(1).png)
 
 ## Important documents to have at hand
 
@@ -24,7 +24,7 @@ The flow for obtaining all the necessary documents is summarized in the followin
 - **C - Health Insurance:** Health insurance contract, we suggest using the service of Mawista ([link](https://www.mawista.com/en/)).
 - **D - Home University Enrollment (in english):** if you are a PPGEP/UFSC student you can use this template - 
 [Link](https://drive.google.com/open?id=18sKO0Ni9or1b0Qqov5e1e5-QjbXShtD0)
-- **E - Scholarship Letter (Capes):** document sent by the capes highlighting the value of the scholarship and other benefits.
+- **E - Scholarship (Capes):** document sent by the capes highlighting the value of the scholarship and benefits.
 - **F - Rent Contract:** some places close to the university and with good price:
   - The Fizz - [Link](https://www.the-fizz.com/student-accommodation/bremen)
   - Galileo Residenz - [Link](https://www.galileoresidenz.de/en/home/)
