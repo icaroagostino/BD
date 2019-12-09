@@ -123,4 +123,5 @@ A residence visa is required for anyone staying in Germany for more than three m
 - **Website:** [Welcome center](https://www.uni-bremen.de/en/research-alliance/welcome-center/visa-and-entry/)
 
 ***
+
 Welcome Visiting Researcher!
