@@ -1,9 +1,7 @@
----
-title: "Document Instructions for Visiting Researchers at BIBA"
-author: "Ícaro Agostino, Satie Takeda and Eike Broda"
-date: "09/12/2019"
-output: html_document
----
+# Document Instructions for Visiting Researchers at BIBA
+Ícaro Agostino, Satie Takeda and Eike Broda
+
+09/12/2019
 ***
 ## **Objective**
 
