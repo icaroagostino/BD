@@ -103,6 +103,8 @@ To do the enrollment you must go to the rectory and submit the completed form al
   [Google Maps Link](https://goo.gl/maps/hxe7DtSm7qzy3QfM7)
   
 - **Website:** [Application for enrollment link](https://www.uni-bremen.de/en/studies/orientation-application/applying-for-a-place/applications-from-abroad/freemover-visiting-students-at-the-university-of-bremen.html)
+
+<span style="color:red">__*note:*__</span> The University of Bremen requires undergraduate students to contract public insurance, but this obligation does not apply to PhD students or visiting researchers. It may be necessary to get a statement declaring that you do not need to contract public insurance, if necessary you should go to TK - Techniker Krankenkasse and ask for this statement.
   
 ### Step 4: VISA (Residence permit)
 
