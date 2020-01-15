@@ -1,5 +1,5 @@
 # Document Instructions for Visiting Researchers at BIBA
-Ícaro Agostino, Satie Takeda and Eike Broda - *09/12/2019*
+Ícaro Agostino, Satie Takeda and Eike Broda - *15/01/2020*
 
 ## Objective
 
