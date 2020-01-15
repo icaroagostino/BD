@@ -20,7 +20,7 @@ The flow for obtaining all the necessary documents is summarized in the followin
 ## Important documents to have at hand
 
 - **A - Passport:** official international document.
-- **B - Invitation Letter:** letter sent by BIBA, signed by a university Professor.
+- **B - Invitation Letter:** letter sent by BIBA, signed by an university Professor.
 - **C - Health Insurance:** Health insurance contract, we suggest using the service of Mawista ([link](https://www.mawista.com/en/)).
 - **D - Home University Enrollment (in english):** if you are a PPGEP/UFSC student you can use this template - 
 [Link](https://drive.google.com/open?id=18sKO0Ni9or1b0Qqov5e1e5-QjbXShtD0)
@@ -45,7 +45,7 @@ c. This is not an official document of the University, only a manual prepared by
 
 ### Step 0: Welcome Center and Mensa Card
 
-As soon as you arrive in Bremen and go to the University you should go to the Welcome Center. Is a support center for foreign students, they will support international researchers and their families before and during their stay in Bremen.
+As soon as you arrive in Bremen and go to the University you should go to the Welcome Center. It's a support center for foreign students, they will support international researchers and their families before and during their stay in Bremen.
 
 You can register before you arrive in germany through the link: [Registration](https://www.uni-bremen.de/en/research-alliance/welcome-center/registration-at-the-welcome-center-for-international-researchers/)
 
@@ -57,7 +57,7 @@ For lunch at the university you will need a Mensa card, for that you will only n
 
 ### Step 1: City Registration
 
-After your arrival get with the tenant of the property the **"Apartment confirmation"**. Is a document that confirms that you have a rental contract in Bremen. Probably the tenant will ask for your passport and a copy of the contract. 
+After your arrival get with the tenant of the property the **"Apartment confirmation"**. It's a document that confirms that you have a rental contract in Bremen. Probably the tenant will ask for your passport and a copy of the contract. 
 
 After that, you must go to Bremen Service Universität (BSU) to get the **city registration**, there it will be easy to locate the registration service.
 
@@ -90,7 +90,7 @@ It will be important to open a German account, because several services (includi
   
 ### Step 3: Enrollment Uni Bremen
 
-To do the enrollment you must go to the rectory and submit the completed form along with the other documents. After a few days you will receive a letter from the university and will have to pay a registration fee (approximately EUR 380), then you will receive a enrollment card. This card allows you to take the bus and tram free of charge in the city of Bremen and neighbouring regions.
+To do the enrollment you must go to the rectory and submit the completed form along with the other documents. After a few days you will receive a letter from the university and will have to pay a enrollment fee (approximately EUR 380), then you will receive a semester ticket card. This card allows you to take the bus and tram free of charge in the city of Bremen and neighbouring regions.
 
 - **Documents required:**
 
@@ -104,9 +104,9 @@ To do the enrollment you must go to the rectory and submit the completed form al
   
 - **Website:** [Application for enrollment link](https://www.uni-bremen.de/en/studies/orientation-application/applying-for-a-place/applications-from-abroad/freemover-visiting-students-at-the-university-of-bremen.html)
 
-<span style="color:red">__*note 1:*__</span> The University of Bremen requires undergraduate students to contract public insurance, but this obligation does not apply to PhD students or visiting researchers. It may be necessary to get a statement declaring that you do not need to contract public insurance, if necessary you should go to TK - Techniker Krankenkasse and ask for this statement. **In our experience we suggest to get this document before starting the enrollment process and attach it to the other documents to avoid any problems.**
+<span style="color:red">__*Note 1:*__</span> The University of Bremen requires undergraduate students to contract public insurance, but this obligation does not apply to PhD students or visiting researchers. It may be necessary to get a statement declaring that you do not need to contract public insurance, if necessary you should go to TK - Techniker Krankenkasse and ask for this statement. **In our experience we suggest to get this document before starting the enrollment process and attach it to the other documents to avoid any problems.**
 
-<span style="color:red">__*note 2:*__</span> The enrollment in the University is not an mandatory requirement for visiting researchers, however it is commonly required in the process of obtaining the VISA (Residence permit). In case you do not enroll, it is important to emphasize in the VISA process that you are not a student of the University of Bremen and you are doing a work mission as a visiting researcher. **Therefore, as a general rule, it is recommended to enrol to obtain the visa easily, and use public transportation free of charge within the city and in the neighborhoods.**
+<span style="color:red">__*Note 2:*__</span> The enrollment in the University is not an mandatory requirement for visiting researchers, however it is commonly required in the process of obtaining the VISA (Residence permit). In case you do not enroll, it is important to emphasize in the VISA process that you are doing a work mission as a visiting researcher. **Therefore, as a general rule, it is recommended to enrol to obtain the visa easily, and use public transportation free of charge within the city and in the neighborhoods.**
   
 ### Step 4: VISA (Residence permit)
 
@@ -120,6 +120,7 @@ A residence visa is required for anyone staying in Germany for more than three m
   - Scholarship Letter (Capes)
   - Enrollment Uni Bremen
   - Other documents: bank account, rent contract, apartment confirmation.
+  - Biometric photo (Can be taken on Zentrale Studienberatung)
 
 - **Place:** Bremen Service Universität (BSU) - 
   [Google Maps Link](https://goo.gl/maps/GnnWBwHyyLBEf8kP9)
