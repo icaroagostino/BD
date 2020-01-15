@@ -1,9 +1,0 @@
-cp	maq	tfl
-sp	sp1	0
-sp	sp2	0
-go	go1	0
-pa	pa1	0
-mc	mc1	0
-mc	mc2	0
-jp	jp1	0
-fr	ft1	0
