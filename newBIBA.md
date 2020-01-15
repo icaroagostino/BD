@@ -51,7 +51,7 @@ You can register before you arrive in germany through the link: [Registration](h
 
 - **Place:** [Google Maps Link](https://goo.gl/maps/Jk2JjAdK4CBbfENm7)
 
-For lunch at the university you will need a Mensa card, for that you will only need the UFSC Enrollment (in english). Will be charged 10 euros (5 for the card and 5 for the first recharge).
+For lunch at the university you will need a Mensa card, for that you will only need the UFSC Enrollment (in english). Will be charged 10 euros (5 for the card and 5 for the first recharge). At the end of your period you can return the card and receive the value back.
 
 - **Place:** [Google Maps Link](https://goo.gl/maps/tMqfaMUT3jhUApwZ7)
 
@@ -59,7 +59,7 @@ For lunch at the university you will need a Mensa card, for that you will only n
 
 After your arrival get with the tenant of the property the **"Apartment confirmation"**. It's a document that confirms that you have a rental contract in Bremen. Probably the tenant will ask for your passport and a copy of the contract. 
 
-After that, you must go to Bremen Service Universität (BSU) to get the **city registration**, there it will be easy to locate the registration service.
+After that, you must go to Bremen Service Universität (BSU) (in the first 3 days) to get the **city registration**, there it will be easy to locate the registration service.
 
 - **Documents required:**
 
@@ -82,6 +82,8 @@ It will be important to open a German account, because several services (includi
   - Invitation Letter
   - Enrollment (UFSC)
   - Scholarship Letter (Capes)
+  
+Obs.: You may be required to come back later and submit your Bremen university application to confirm your account as a university student.
 
 - **Place:** Die Sparkasse Bremen - Beratungsfiliale - 
   [Google Maps Link](https://goo.gl/maps/rEqxQTtSRghdga1FA)
