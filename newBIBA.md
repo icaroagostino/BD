@@ -106,7 +106,7 @@ To do the enrollment you must go to the rectory and submit the completed form al
 
 <span style="color:red">__*Note 1:*__</span> The University of Bremen requires undergraduate students to contract public insurance, but this obligation does not apply to PhD students or visiting researchers. It may be necessary to get a statement declaring that you do not need to contract public insurance, if necessary you should go to TK - Techniker Krankenkasse and ask for this statement. **In our experience we suggest to get this document before starting the enrollment process and attach it to the other documents to avoid any problems.**
 
-<span style="color:red">__*Note 2:*__</span> The enrollment in the University is not an mandatory requirement for visiting researchers, however it is commonly required in the process of obtaining the VISA (Residence permit). In case you do not enroll, it is important to emphasize in the VISA process that you are doing a work mission as a visiting researcher. **Therefore, as a general rule, it is recommended to enrol to obtain the visa easily, and use public transportation free of charge within the city and in the neighborhoods.**
+<span style="color:red">__*Note 2:*__</span> The enrollment in the University is not an mandatory requirement for visiting researchers, however it is commonly required in the process of obtaining the VISA (Residence permit). In case you do not enroll, it is important to emphasize in the VISA process that you are doing a work mission as a visiting researcher. **Therefore, as a general rule, it is recommended to enroll to obtain the visa easily, and use public transportation free of charge within the city and in the neighborhoods.**
   
 ### Step 4: VISA (Residence permit)
 
